@@ -12,8 +12,8 @@ email=giulia.mazzaccaro@gmail.com
 
 about=The plugin allows to associate a damage percentage and a maximum damage level in economic terms, caused by a specific flood event, to each building contained in an area of interest, through the use of guidelines and JRC vulnerability curves.
 
-tracker=http://bugs
-repository=http://repo
+tracker=https://github.com/LabGeomatica/flood_damage_spacefillingmap/issues
+repository=https://github.com/LabGeomatica/flood_damage_spacefillingmap
 # End of mandatory metadata
 
 # Recommended items:
